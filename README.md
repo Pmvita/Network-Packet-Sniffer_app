@@ -44,3 +44,7 @@ This is a simple Network Packet Sniffer application built using Python. It featu
 ## Note
 
 Running this application may require administrative privileges depending on your operating system.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
