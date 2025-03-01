@@ -10,8 +10,9 @@ This is a simple Network Packet Sniffer application built using Python. It featu
 - Basic settings tab for future enhancements.
 
 ## Screenshot
-
-![Screenshot](./screenshot/Screenshot.png)
+<div align="center">
+   <img src="./screenshot/Screenshot.png" alt="Packet Sniffer Screenshot" style="width: 35%;">
+</div>
 
 ## Requirements
 
